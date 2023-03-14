@@ -119,7 +119,7 @@ const SuperlativeSelection = () => {
                                 </div>
                             </div>
                             
-                        </OwlCarousel>;
+                        </OwlCarousel>
                     </div>
                 </div>
             </section>

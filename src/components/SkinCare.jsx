@@ -101,7 +101,7 @@ const SkinCare = () => {
                                 </div>
                             </div>
 
-                        </OwlCarousel>;
+                        </OwlCarousel>
                     </div>
                 </div>
             </section>
