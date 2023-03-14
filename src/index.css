@@ -1,13 +1,158 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  font-family: 'sans-serif';
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* TOPBAR START */
+.topbar .topbar-text a:hover{
+  text-decoration: underline;
 }
+/* TOPBAR END */
+
+/* NAVBAR START */
+.navbar ul li a{
+  color: black !important;
+  font-size: 15px !important;
+  font-family: sans-serif;
+  padding: 7px 14px !important;
+}
+/* NAVBAR END */
+
+
+/* CAROUSEL START */
+.carousel-slider{
+  width: 100%;
+  height: 90vh;
+  background-image: url(../src/img/slider.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.carousel-slider .carousel-inner p{
+  font-size: 19px;
+}
+.carousel-slider .carousel-inner h2{
+  font-size: 35px;
+}
+/* CAROUSEL END */
+
+/* INTERIOR FRAGRANCE START */
+.interior-fragrance{
+  overflow-x: hidden;
+}
+/* INTERIOR FRAGRANCE END */
+
+/* AESOP VITAMINS START */
+.aesop-vitamins{
+  overflow-x: hidden;
+}
+/* AESOP VITAMINS END */
+
+/* CORPORATE GIFTS START */
+.corporate-gifts{
+  overflow-x: hidden;
+}
+/* CORPORATE GIFTS END */
+
+/* STORE LOCATOR START */
+.store-locator{
+  overflow-x: hidden;
+}
+/* STORE LOCATOR END */
+
+
+/* FOOTER START */
+.footer-section p{
+  font-size: 16px;
+  line-height: 25px;
+}
+.footer-section ul li{
+  list-style-type: none;
+  padding: 8px 0px;
+}
+
+.footer-section ul li a{
+  text-decoration: none;
+  color: white;
+  font-size: 15px !important;
+}
+
+.footer-section .footer-widget-heading{
+  padding-left: 28px;
+} 
+
+.footer-section .footer-widget-heading h6{
+  font-size: 17px;
+}
+
+.footer-section hr{
+  border-color: white !important;
+}
+
+.footer-section .form-control::placeholder { 
+  color: white;
+  font-size: 18px;
+}
+
+/* FOOTER END */
+
+/* OWL CAROUSEL START */
+
+.owl-carousel-block:hover .info-box h6{
+  text-decoration: underline;
+  cursor: pointer;
+}
+.owl-carousel-info .info-box p{
+  cursor: pointer;
+}
+.owl-theme {
+  position: relative;
+}
+.owl-theme .owl-next,
+.owl-theme .owl-prev {
+  width: 22px;
+  height: 40px;
+  /* margin-top: -20px; */
+  position: absolute;
+  top: 30%;
+}
+.owl-theme .owl-prev {
+  left: -100px;
+  background-color: rgba(0, 0, 0, 0.685) !important;
+  width: 70px;
+  height: 90px;
+  color: white !important;
+  font-size: 40px !important;
+  border: 1px solid black;
+  border-radius: 0px !important;
+}
+.owl-theme .owl-next {
+  right: -50px;
+  background-color: rgba(0, 0, 0, 0.685) !important;
+  width: 70px;
+  height: 90px;
+  color: white !important;
+  font-size: 40px !important;
+  border: 1px solid black;
+  border-radius: 0px !important;
+}
+
+.owl-carousel-info-title, .interior-fragrance-title, .aesop-vitamins-title, .corporate-gifts-title, .store-locator-title{
+  font-family: Zapf Humanist, 'sans-serif';
+  color: #333333;
+}
+.owl-carousel-info-title p, .interior-fragrance-title p,
+.aesop-vitamins-title p, .corporate-gifts-title p, .store-locator-title p{
+  font-family: Zapf Humanist, 'sans-serif';
+  color: #333333;
+  font-size: 17px;
+  line-height: 28px;
+}
+
+.owl-carousel-info-title a, .interior-fragrance-title a{
+  text-decoration: none;
+}
+/* OWL CAROUSEL END */
