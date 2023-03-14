@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
     <Navbar/>
       <Routes>
-        <Route path='/nexus-task' element={<Home/>}>Home</Route>
+        <Route path='/' element={<Home/>}>Home</Route>
       </Routes>
     <Footer />
     </BrowserRouter>
