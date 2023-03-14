@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/nexus-task/static/css/main.e4b414ba.css",
+    "main.js": "/nexus-task/static/js/main.2a7e789b.js",
+    "static/js/787.47648576.chunk.js": "/nexus-task/static/js/787.47648576.chunk.js",
+    "static/media/store_locator_1.jpg": "/nexus-task/static/media/store_locator_1.6881cc02a049502c6ed6.jpg",
+    "static/media/interior-fragrance.avif": "/nexus-task/static/media/interior-fragrance.bcecbd459b942b9f4fa6.avif",
+    "static/media/store_locator_3.webp": "/nexus-task/static/media/store_locator_3.db998389a8bcb1757138.webp",
+    "static/media/store_locator_2.jpg": "/nexus-task/static/media/store_locator_2.6ffd65ca1f2ad84d4162.jpg",
+    "static/media/Aesop_Skin_Sublime.png": "/nexus-task/static/media/Aesop_Skin_Sublime.05a615b2fb034f08fd94.png",
+    "static/media/slider.jpg": "/nexus-task/static/media/slider.b2a205562da0f216204b.jpg",
+    "static/media/Aesop_Skin_Lucent.png": "/nexus-task/static/media/Aesop_Skin_Lucent.c0f807950794adf20f94.png",
+    "static/media/Aesop_Home_Sarashina.webp": "/nexus-task/static/media/Aesop_Home_Sarashina.966a5b10671ba2b83da0.webp",
+    "static/media/Aesop_Fragrance_Marrakech.webp": "/nexus-task/static/media/Aesop_Fragrance_Marrakech.fdd0bebaf75ab8f8567c.webp",
+    "static/media/Aesop_Home_Kagerou.webp": "/nexus-task/static/media/Aesop_Home_Kagerou.62db733446c644012974.webp",
+    "static/media/Aesop_Home_Murasaki.webp": "/nexus-task/static/media/Aesop_Home_Murasaki.4abb479470c75868601e.webp",
+    "static/media/Aesop_Fragrance_Rozu.webp": "/nexus-task/static/media/Aesop_Fragrance_Rozu.ac0aa25047d17130f93c.webp",
+    "static/media/corporate_gifts.webp": "/nexus-task/static/media/corporate_gifts.09a5e75bd1ec83ba9918.webp",
+    "static/media/Aesop-Other-Aesop.webp": "/nexus-task/static/media/Aesop-Other-Aesop.90bac9471fd8ae012b5b.webp",
+    "static/media/Aesop_Skin_Exalted.png": "/nexus-task/static/media/Aesop_Skin_Exalted.46154e30a64a0365cafd.png",
+    "static/media/aesop-on-vitamins.webp": "/nexus-task/static/media/aesop-on-vitamins.8a14b792d5c280dabdf7.webp",
+    "static/media/Aesop_Home_Bronze.webp": "/nexus-task/static/media/Aesop_Home_Bronze.660f74c1377499ddc8eb.webp",
+    "static/media/Aesop_Kits_Rick.webp": "/nexus-task/static/media/Aesop_Kits_Rick.93ab2f3474797ee900e3.webp",
+    "static/media/Aesop-Body-Geranium.webp": "/nexus-task/static/media/Aesop-Body-Geranium.d21a84bb77440223f2b2.webp",
+    "static/media/Aesop_Home_Ptolemy.webp": "/nexus-task/static/media/Aesop_Home_Ptolemy.c82c1d19f5a0f6c6d57d.webp",
+    "static/media/Aesop_Home_Callippus.webp": "/nexus-task/static/media/Aesop_Home_Callippus.13f7d143ab3f45693d92.webp",
+    "static/media/Aesop_Home_Aganice.webp": "/nexus-task/static/media/Aesop_Home_Aganice.01e65cee2c3b9f21aebd.webp",
+    "static/media/Aesop_Home_Cythera.webp": "/nexus-task/static/media/Aesop_Home_Cythera.e0635b061451910edd59.webp",
+    "static/media/Aesop_Fragrance_Miraceti.webp": "/nexus-task/static/media/Aesop_Fragrance_Miraceti.ecad0d8ae5b8906d7dd1.webp",
+    "static/media/Aesop-Home-Room.webp": "/nexus-task/static/media/Aesop-Home-Room.415e2f98bc5192970a3c.webp",
+    "static/media/Aesop_Skin_B.webp": "/nexus-task/static/media/Aesop_Skin_B.3fa89b3105e0cf2ffe7e.webp",
+    "static/media/Aesop-Home-Room-Spray.webp": "/nexus-task/static/media/Aesop-Home-Room-Spray.2841b5de6159ad661f85.webp",
+    "static/media/Aesop_Skin_Damascan.webp": "/nexus-task/static/media/Aesop_Skin_Damascan.7f8e56fceb0c9597b833.webp",
+    "index.html": "/nexus-task/index.html",
+    "main.e4b414ba.css.map": "/nexus-task/static/css/main.e4b414ba.css.map",
+    "main.2a7e789b.js.map": "/nexus-task/static/js/main.2a7e789b.js.map",
+    "787.47648576.chunk.js.map": "/nexus-task/static/js/787.47648576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4b414ba.css",
+    "static/js/main.2a7e789b.js"
+  ]
+}
